@@ -138,11 +138,13 @@ img {
 }
 
 /* Gallery  */
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 20px;
 }
+
 .gallery img {
   width: 100%;
 }
@@ -224,5 +226,11 @@ img {
       "hero"
       "cta1"
       "cta2";
+  }
+  h1 {
+    font-size: 20px;
+  }
+  .price {
+    font-size: 24px;
   }
 }
