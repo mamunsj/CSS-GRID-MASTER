@@ -1,0 +1,7 @@
+
+ If we willingly define grid, it is called explicit grid, when we do not define grid explicitly/ when items are added outside of the explicitly defined grid this is reffered as an implicit gird.
+
+ -- By default our implicit grid adds a row, but we can change it into column by calling gird-auto-flow:column;
+
+  we can use 'gird-auto-columns' and 'gird-auto-rows' to add explicit value;
+  
